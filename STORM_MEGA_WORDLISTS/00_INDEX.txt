@@ -1,0 +1,10 @@
+STORM MEGA WORDLIST - INDEX FILE
+==================================================
+Total passwords generated: 3,440,537
+Total files: 1
+Passwords per file: ~100,000,000
+Generation date: Sun Oct  5 02:40:44 2025
+Total size: ~0.03 GB
+
+File list:
+wordlist_part_001.txt - 34.36 MB
