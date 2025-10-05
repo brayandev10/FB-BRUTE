@@ -1,9 +1,3 @@
-Voici un exemple complet de README.md pour ton projet FB-BRUTE, avec les 3 screenshots inclus 👇
-Tu peux copier-coller ce contenu dans ton fichier README.md :
-
-
----
-
 # ⚡ FB-BRUTE Ultimate – AI-Powered Facebook Password Cracker
 
 ![Banner](https://img.shields.io/badge/Version-4.0-blue?style=for-the-badge) 
